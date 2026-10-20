@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 食物記錄 agent：資料不進 git
+.env
+!.env.example
+DATA_DIR/
+food-agent-data/
+photos/
+*.xlsx
